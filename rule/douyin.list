@@ -1,7 +1,9 @@
 # douyin
 
 DOMAIN-SUFFIX,webcast5-normal-hl.amemv.com
-DOMAIN-SUFFIX,inmobi.com
-DOMAIN-SUFFIX,crashlytics.com
-DOMAIN-SUFFIX,talkatone.com
-DOMAIN-SUFFIX,kochava.com
+DOMAIN-SUFFIX,*.snssdk.com
+DOMAIN-SUFFIX,*.amemv.com
+DOMAIN-SUFFIX,*.douyinvod.com
+DOMAIN-SUFFIX,*.douyinpic.com
+DOMAIN-SUFFIX,*.doubao.com
+DOMAIN-SUFFIX,*.douyincdn.com
